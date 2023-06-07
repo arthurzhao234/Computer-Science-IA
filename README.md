@@ -25,3 +25,8 @@ Success criteria:
 6.Teachers could check the students result by accessing their files, students could only see their own file and results.
 7. the language i choose will be python because it could run effectively on MAC and it has a powerful GUI system
 8. Some data structures will be use, such as array, queue stack etc
+
+
+2023/06/07
+Today's work: initial the document for Criteria B
+
