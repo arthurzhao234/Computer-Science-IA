@@ -29,4 +29,6 @@ Success criteria:
 
 2023/06/07
 Today's work: initial the document for Criteria B
+2023/6/15
+designed the structure chart
 
