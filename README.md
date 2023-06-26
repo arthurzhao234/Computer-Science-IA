@@ -32,3 +32,5 @@ Today's work: initial the document for Criteria B
 2023/6/15
 designed the structure chart
 
+2023/06/26
+designed the Test Plan
